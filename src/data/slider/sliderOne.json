@@ -1,0 +1,37 @@
+
+
+[
+  {
+    "title": { "main": "Awaken beauty" },
+    "subTitle": "bringing you",
+    "image": "https://img.freepik.com/premium-photo/cosmetic-beauty-products-bottles-tubes-with-branding-mock-up-skin-care-beauty-concept_89386-2524.jpg",
+    
+    "animationClass": {
+      "title": "slider-one-title",
+      "subtitle": "slider-one-subtitle",
+      "button": "slider-one-button"
+    }
+  },
+  {
+    "title": { "main": "You feel good" },
+    "subTitle": "When you look good",
+    "image": "/assets/images/slider/SliderOne/image.png",
+    
+    "animationClass": {
+      "title": "slider-one-title",
+      "subtitle": "slider-one-subtitle",
+      "button": "slider-one-button"
+    }
+  },
+  {
+    "title": { "main": "Beauty salon" },
+    "subTitle": "We make best makeup",
+    "image": "/assets/images/slider/SliderOne/image2.png",
+    
+    "animationClass": {
+      "title": "slider-one-title",
+      "subtitle": "slider-one-subtitle",
+      "button": "slider-one-button"
+    }
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Skin Care",
+    "image": "/assets/images/introduction/IntroductionTwo/1.png"
+   
+  },
+  {
+    "name": "Toner Pad",
+    "image": "/assets/images/introduction/IntroductionTwo/2.png"
+    
+  },
+  {
+    "name": "Mineral",
+    "image": "/assets/images/introduction/IntroductionTwo/3.png"
+  },
+  {
+    "name": "Moisturize",
+    "image": "/assets/images/introduction/IntroductionTwo/4.png"
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "title": { "span": "Better", "main": "than before" },
+    "btn": {
+      "content": "Shop now",
+      "color": "white",
+      "href": "#"
+    },
+    
+    "image": "/assets/images/slider/SliderTwo/category 1.png",
+    "animationClass": {
+      "title": "slider-one-title",
+      "description": "slider-one-subtitle",
+      "button": "slider-one-button"
+    }
+  }
+]

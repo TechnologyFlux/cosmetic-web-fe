@@ -1,0 +1,15 @@
+{
+  "accountLinks": [
+    { "name": "My account", "to": "/user/userProfile" },
+    { "name": "Wishlist", "to": "/shop/wishlist" },
+    { "name": "Cart", "to": "/shop/cart" },
+    { "name": "Shop", "to": "/shop/fullwidth-4col" },
+    { "name": "Checkout", "to": "/shop/checkout" }
+  ],
+  "informationLinks": [
+   
+    { "name": "Privacy Policy", "to": "https://www.lixibox.com/info/privacy" },
+    { "name": "Terms & Condition", "to": "https://www.lixibox.com/info/term" }
+  ]
+
+}

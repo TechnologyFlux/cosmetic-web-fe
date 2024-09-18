@@ -1,0 +1,11 @@
+[
+  { "title": "Home", "to": "/homepages/homepage1" },
+
+  { "title": "Introduce", "to": "/homepages/homepage2" },
+  
+  { "title": "About", "to": "/other/about" },
+  
+  { "title": "Shop now", "to": "/shop/fullwidth-left-sidebar" },
+  
+  { "title": "Contact", "to": "/other/contact" }
+]

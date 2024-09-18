@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "image": "/assets/images/ceoCera.png",
+    "name": "Tom Allison ",
+    "position": "CMO Cerave"
+    
+  },
+  {
+    "id": 2,
+    "image": "/assets/images/innis.png",
+    "name": "Dongwan Min",
+    "position": "CMO Innisfree"
+    
+  },
+  {
+    "id": 3,
+    "image": "/assets/images/images.png",
+    "name": " Michèle Sayag",
+    "position": "CEO Bioderma"
+    
+  }
+]
